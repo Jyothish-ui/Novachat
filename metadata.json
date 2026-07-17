@@ -1,0 +1,6 @@
+{
+  "name": "NovaChat",
+  "description": "NovaChat is a production-ready, feature-rich messaging application with local persistence, real-time simulated contacts, dynamic voice messaging, picture sharing, high-fidelity CameraX video calling, and an integrated Gemini AI Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
